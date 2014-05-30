@@ -1,6 +1,5 @@
 input.search {
-  @include border-radius(3px);
+  border-radius: 8px;
 
-  margin: 0;
-  padding: 10px 30px;
+  padding: 10px 20px;
 }

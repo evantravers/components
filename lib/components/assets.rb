@@ -3,7 +3,7 @@ require "components/version"
 module Components::Assets
   def self.precompile
     [
-      'style.css'
+      'components.css'
     ]
   end
 end
